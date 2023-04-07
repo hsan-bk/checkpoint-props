@@ -1,0 +1,11 @@
+
+body {
+  background: rgb(160,202,255);
+  background: radial-gradient(circle, rgba(160,202,255,0.9248074229691877) 16%, rgba(167,202,255,0.8379726890756303) 43%, rgba(178,202,255,1) 65%, rgba(178,202,255,0.7707457983193278) 87%);
+  
+  font-family: 'Dancing Script', cursive;
+}
+
+.App {
+text-align: center;
+}
